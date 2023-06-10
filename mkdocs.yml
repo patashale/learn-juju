@@ -1,4 +1,7 @@
 site_name: Learn Juju
+site_url: https://www.patashale.in/learn-juju/
+site_author: Patashale™
+site_description: Learn everything about Juju here at Patashale™.
 repo_url: https://github.com/patashale/learn-juju
 repo_name: patashale/learn-juju
 theme:
